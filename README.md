@@ -12,7 +12,8 @@ jfrog Artifactory\
 Apache poi\
 Selenium grid (hub and nodes)\
 
-\Project Stimulation
+Project Stimulation\
+
 https://user-images.githubusercontent.com/59502137/143673400-6de863e8-6a50-4d62-9d04-2a3830faa91e.mp4
 
 
